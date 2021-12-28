@@ -53,3 +53,5 @@ To visit the docs, [click here](https://screepers.gitbook.io/screeps-typescript-
 ## Contributing
 
 Issues, Pull Requests, and contribution to the docs are welcome! See our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+Push by executing `npm run push-pserver`
